@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poiret One', cursive;
+    background-size: cover;
+    border-top-width: 10%;
+  }
+  
+  
+
+
+  .w3-container3 {
+    width: 450px;
+    height: 600px;
+    position: absolute;
+    top: 500px;
+    left: 72%;
+    background-image: linear-gradient(to right, #eff5f7, #7adfec);
+    border-radius: 20px 20px;
+    transform: translate(-50%,-50%);
+    color: #013243;
+    overflow: auto;
+  }
+
+ 
+  .w3-container3 h1{
+    position: absolute;
+    top: 30px;
+    left: 5%;
+    color: rgb(26, 64, 87);
+      
+  }
+  .w3-container3 .notice_data{
+    position: absolute;
+    top: 100px;
+    left: 5%;
+    border-bottom:1px solid rgb(14, 38, 54);
+  }
+  .w3-container3 .notice_data1{
+    position: absolute;
+    top: 260px;
+    left: 5%;
+  }
+  
+
+ 
+
+
+
+  
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
